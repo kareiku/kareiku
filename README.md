@@ -1,16 +1,16 @@
-## Hi there 👋
+## &#x1F44B; Hi! I'm Kare.
+**Computer science & engineering university student. Passionate about the
+digital world since I was a child.**
 
-<!--
-**kareiku/kareiku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&#x; Experienced in languages such as C and Java, with some C++ and
+Python knowledge.
 
-Here are some ideas to get you started:
+&#x; Learnt pure web development (HTML/CSS/JavaScript) by myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&#x2728; Always striving to learn new things (even if it means having headaches
+and lack of sleep &#x1F605;).
+
+---
+
+I also make my own little guides about random topics! You can find them
+[here](https://kareiku.github.io/misc).
