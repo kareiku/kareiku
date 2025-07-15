@@ -9,7 +9,7 @@ Python knowledge.
 
 &#x1F427; Always working on a Linux and skilled in its shell (Bash).
 
-&#x1F4FB; Adept in Git, and trying to _master_ it.
+&#x1F41B; Adept in Git, and trying to _master_ it.
 
 &#x2728; Always striving to learn new things (even if it means having headaches
 and lack of sleep &#x1F605;).
