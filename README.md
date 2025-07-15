@@ -7,7 +7,7 @@ Python knowledge.
 
 &#x1F310; Learnt pure web development (HTML/CSS/JavaScript) by myself.
 
-&#x1F427; Always working on a Linux and skilled in its shell (Bash).
+&#x1F427; Skilled in Linux its shell (Bash).
 
 &#x1F41B; Adept in Git, and trying to _master_ it.
 
